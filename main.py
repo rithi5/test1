@@ -11,4 +11,6 @@ if __name__ == '__main__':
     print('How are you?')
 
     print(new_func(8, 2))
+
+    x = 3
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
